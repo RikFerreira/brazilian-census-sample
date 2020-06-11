@@ -4,7 +4,7 @@ These scripts compute statistics from the sample of the Brazilian Demographic Ce
 
 This project relies on Thomas Lumley's work. More details on reference.
 
-For every comment, suggestion or question, open an issue in this repository.
+For every comment, suggestion or question, open an issue in this repository, or send me an e-mail.
 
 ## References
 [Brazilian Demographic Census](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9662-censo-demografico-2010.html?=&t=o-que-e)
