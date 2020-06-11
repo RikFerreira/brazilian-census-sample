@@ -5,6 +5,12 @@
 # Class 2: Gender
 # Class 3: Age
 # Class 4: Condition in the household
+# 
+# Author: Rik Ferreira Alves
+# E-mail: rikferreiraalves@gmail.com
+# Lattes CV: http://lattes.cnpq.br/9527400491453685
+# Orcid ID: https://orcid.org/0000-0002-8084-7951
+# Date: 2020-06-11
 
 library(tidyverse)
 library(survey)
@@ -84,6 +90,10 @@ svymean(~V0502, design)
 svytotal(~interaction(V1006, V0601), design)
 svymean(~interaction(V1006, V0601), design)
 
+# Since the number of combinations between the variables of the SIDRA tabular plan is huge,
+# and the methods were explored, this script will end here.
+# Any question should be pointed in an issue or addressed to me by e-mail.
+# 
 # To assess this code, we can compare these results with the table from the IBGE.
 # Here is the link where you can access this specific table: https://sidra.ibge.gov.br/tabela/1378
 # Montes Claros geocode: 3143302
