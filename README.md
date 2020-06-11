@@ -4,6 +4,8 @@ These scripts compute statistics from the sample of the Brazilian Demographic Ce
 
 This project relies on Thomas Lumley's work. More details on reference.
 
+The example dataset is the sample of Brazilian Demographics Census subsetted by the [Montes Claros municipality](https://en.wikipedia.org/wiki/Montes_Claros). For comparison, it is used the [Sistema IBGE de Recuperação Automática (SIDRA)](https://sidra.ibge.gov.br/pesquisa/censo-demografico/demografico-2010/inicial)
+
 For every comment, suggestion or question, open an issue in this repository, or send me an e-mail.
 
 ## References
