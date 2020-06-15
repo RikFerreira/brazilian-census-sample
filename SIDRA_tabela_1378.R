@@ -1,4 +1,4 @@
-# # This code intends to generate the same values presented at SIDRA table 1378
+# This code intends to generate the same values presented at SIDRA table 1378
 # 
 # Variable: Frequency of habitants (absolute and relative)
 # Class 1: Urban-rural condition
